@@ -1,0 +1,34 @@
+.em-execução {
+  background-color: greenyellow;
+}
+.em-espera {
+  background-color: orange;
+}
+.em-sobrecarga {
+  background-color: red;
+}
+
+.em-estouro {
+  background-color: rgb(216, 212, 212);
+}
+
+.tdBox {
+  width: 80;
+  border: 1px solid black;
+}
+
+.tdBox2 {
+  height: 30px;
+  height: 30px;
+  border: 1px solid black;
+}
+
+.processInfo {
+  width: 80;
+  display: flex;
+  flex-direction: row;
+}
+
+.titles {
+  padding-left: 10px;
+}
