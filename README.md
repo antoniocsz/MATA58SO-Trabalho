@@ -12,7 +12,7 @@
 
 Para instalar as dependencias:
 
-### `yarn start` ou `npm install`
+### `yarn install` ou `npm install`
 
 Para executar:
 
