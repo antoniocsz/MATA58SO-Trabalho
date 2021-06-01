@@ -10,6 +10,10 @@
     <li>João Daniel</li>
 </ul>
 
+Para instalar as dependencias:
+
+### `yarn start` ou `npm install`
+
 Para executar:
 
-### `yarn start`
+### `yarn start` ou `npm start`
