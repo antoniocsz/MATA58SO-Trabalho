@@ -5,6 +5,7 @@ export function fifo(processlist) {
   let tempoAtual = 0
   let aux = 0
 
+  // função Bubblesort para ordenar pelo tempo de chegada do processo
   function sort(array, n) {
     for (let i = 0; i < n; i++) {
       if (array[i].tempoChegada > array[i + 1].tempoChegada) {
